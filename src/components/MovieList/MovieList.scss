@@ -1,0 +1,9 @@
+.movies {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 15px;
+  height: calc(100vh - 44px);
+  overflow-y: auto;
+}
